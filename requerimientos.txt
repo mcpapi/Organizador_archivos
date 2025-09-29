@@ -1,0 +1,3 @@
+# No se requieren paquetes externos. Solo módulos estándar de Python 3.6+
+# python organizador.py --origen ./ejemplo_archivos --destino ./archivos_organizados --por_fecha
+# python organizador.py --origen ./ejemplo_archivos --destino ./archivos_organizados --por_fecha --seco
