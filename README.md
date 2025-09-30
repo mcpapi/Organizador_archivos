@@ -1,28 +1,19 @@
-\# Organizador de Archivos en Python 🗂️
-
-
+# Organizador de Archivos en Python 🗂️
 
 Este script organiza automáticamente los archivos de una carpeta según su tipo (PDFs, imágenes, Excel, etc.) y, opcionalmente, por fecha de modificación (año/mes).
 
 ---
 
+## 📌 Características
 
-
-\## 📌 Características
-
-
-
-\- Clasifica archivos por tipo (documentos, imágenes, hojas de cálculo, etc.)
-
-\- Opcionalmente agrupa por fecha de modificación (año/mes)
-
-\- Modo de prueba (dry-run) para ver qué haría sin mover archivos
-
-\- Evita sobrescribir archivos duplicados (renombra automáticamente)
+- Clasifica archivos por tipo (documentos, imágenes, hojas de cálculo, etc.)
+- Opcionalmente agrupa por fecha de modificación (año/mes)
+- Modo de prueba (dry-run) para ver qué haría sin mover archivos
+- Evita sobrescribir archivos duplicados (renombra automáticamente)
 
 ---
 
-\## 📁 Estructura del proyecto
+## 📁 Estructura del proyecto
 
 organizador\_archivos/
 
@@ -38,15 +29,9 @@ organizador\_archivos/
 
 ---
 
+## 🚀 Uso
 
-
-\## 🚀 Uso
-
-
-
-\### 1. Abrí una terminal y navegá a la carpeta del proyecto:
-
-
+1. Abrí una terminal y navegá a la carpeta del proyecto:
 
 ```bash
 
