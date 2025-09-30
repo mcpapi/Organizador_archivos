@@ -4,8 +4,6 @@
 
 Este script organiza automáticamente los archivos de una carpeta según su tipo (PDFs, imágenes, Excel, etc.) y, opcionalmente, por fecha de modificación (año/mes).
 
-
-
 ---
 
 
@@ -22,15 +20,9 @@ Este script organiza automáticamente los archivos de una carpeta según su tipo
 
 \- Evita sobrescribir archivos duplicados (renombra automáticamente)
 
-
-
 ---
 
-
-
 \## 📁 Estructura del proyecto
-
-
 
 organizador\_archivos/
 
@@ -43,10 +35,6 @@ organizador\_archivos/
 ├── requirements.txt
 
 └── README.md
-
-
-
-
 
 ---
 
